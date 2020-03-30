@@ -64,13 +64,13 @@
         "enhetsid": "671F7E3D-A260-4BB5-9FF2-0CEF2AE62089",
         "navn": "Noah Martinsen"
       },
-            {
+      {
         "medlemsnummer": "2846434",
         "fodselsdato": "030301",
         "forening": 943942102,
         "enhetsid": "671F7E3D-A260-4BB5-9FF2-0CEF2AE62089",
         "navn": "Noah Martinsen"
-      },
+      }
     ],
     "kontrollor": false
   },
@@ -79,3 +79,4 @@
     "date": "2020-08-08"
   }
 }
+
