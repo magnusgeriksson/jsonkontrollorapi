@@ -1,0 +1,22 @@
+{
+  "getKontrollor": {
+    "kontrollorList": [],
+    "kontrollor": false
+  },
+  "register": {
+    "kontrollorList": [
+      {
+        "medlemsnummer": "10000757",
+        "fodselsdato": "030301",
+        "forening": 956792150,
+        "enhetsid": "BA1",
+        "navn": "Noah Martinsen"
+      }
+    ],
+    "kontrollor": false
+  },
+  "pubKey": {
+    "keyId": 1,
+    "date": "2020-08-08"
+  }
+}
